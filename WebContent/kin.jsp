@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Welcome to</title>
+<title>Welcome to ci</title>
 </head>
 <body>
-<h1> Welcome to Jenkins </h1>
+<h1> Welcome to Jenkins here  </h1>
 </body>
 </html>
